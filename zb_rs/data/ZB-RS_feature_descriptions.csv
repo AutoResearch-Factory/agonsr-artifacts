@@ -1,0 +1,19 @@
+Variable Name,Description
+Z_A,atomic number of element A
+r_s_A,radius where the radial distribution of s orbital has its maximum for element A
+r_p_A,radius where the radial distribution of p orbital has its maximum for element A
+r_d_A,radius where the radial distribution of d orbital has its maximum for element A
+period_A,period of element A on the periodic table
+EA_A,electron affinity of element A
+IP_A,ionization potential of element A
+E_HOMO_A,energy of the highest occupied atomic orbital for element A
+E_LUMO_A,energy of the highest occupied atomic orbital for element B
+Z_B,atomic number of element B
+r_s_B,radius where the radial distribution of s orbital has its maximum for element B
+r_p_B,radius where the radial distribution of p orbital has its maximum for element B
+r_d_B,radius where the radial distribution of d orbital has its maximum for element B
+period_B,period of element B on the periodic table
+EA_B,electron affinity of element B
+IP_B,ionization potential of element B
+E_HOMO_B,energy of the highest occupied atomic orbital for element B
+E_LUMO_B,energy of the highest occupied atomic orbital for element B
